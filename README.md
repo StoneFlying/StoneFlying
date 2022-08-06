@@ -1,7 +1,7 @@
 - 👋 Hi, I’m stoneflying
 - 👀 I’m interested in operating systems and storage engines
-- 🌱 I’m currently learning linux kernel
-- 📫 How to reach me ...
+- 🌱 I’m currently learning unix kernel
+- 💻 I’m currently working in a technology education company, improving teaching quality through information technology
 
 <!---
 StoneFlying/StoneFlying is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
